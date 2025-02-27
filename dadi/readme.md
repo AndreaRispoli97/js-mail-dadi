@@ -12,6 +12,9 @@ Invece di generare il numero random per l'utente, chiedilo con un prompt!
 
 - Generiamo un numero casuale per il computer
 - Stessa cosa per il giocatore
-- Creiamo un ciclo
+- Creiamo un if per vedere chi ha vinto
   - Li mettiamo a confronto e stabiliamo un vincitore
 - Bonus
+  - Creiamo un prompt per far inserire il numero all'utente
+  - Generiamo un numero casuale per il computer
+  - creiamo un if per il confronto
